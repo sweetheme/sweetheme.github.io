@@ -1,3 +1,10 @@
+ * Version 1.3.3 - 27 oct 2014
+
+      - Fixed - problems appear if post doesn't contain image.
+      - Fixed - verify purchasing code doesn't respond with high traffic.
+
+===================================
+
  * Version 1.3.2 - 25 oct 2014
 
       - Fixed - specific domains name like [.gallery] [.tv] not working well with version 1.3 and 1.3.1
@@ -12,8 +19,8 @@
 
  * Version 1.3 - 20 oct 2014
 
-      - New - now you can add any widget in home layout sections.
-      - New - flickr widget added.
+      + New - now you can add any widget in home layout sections.
+      + New - flickr widget added.
       - Fixed - main menu color customization.
       - Fixed - sliders [big slider - carousel - related posts] not working with some domains.
       - Fixed - recent comments widget if comment from user without photo image.
@@ -27,8 +34,8 @@
 
  * Version 1.2 - 29 sep 2014
 
-      - New - pagination for posts with two advanced options.
-      - New - disqus and facebook comments with options.
+      + New - pagination for posts with two advanced options.
+      + New - disqus and facebook comments with options.
       - Fixed - header position in all conditions.
       - Fixed - some responsive errors.
       - Fixed - space between comments and post if Google+ comments selected.
