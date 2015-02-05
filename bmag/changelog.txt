@@ -1,3 +1,42 @@
+ * Version 2.0.0 - 5 Feb 2015
+
+      + New - multiple authors bio from layout panel.  
+      + New - sitemap page through shortcodes.
+      + New - fixed header on scroll by admin panel option.
+      + New - label_name option to intro posts widget ( random / recent / label_name ).
+      + New - random option to news ticker widget ( random / recent / label_name ).
+      + New - change posts date format ex: Sept 07, 2015.
+      + New - admin panel option to remove recent posts from home page.
+      + New - admin panel option to set number of [Recent Comments].
+      + New - admin panel option to set number of [Recent Posts].
+      + New - admin panel option to set number of [Random Posts].
+      + New - admin panel option to set number of [Fbig1 Posts] 
+      + New - admin panel option to set number of [Fbig2 Posts].
+      + New - admin panel option to set number of [Column1 Posts].
+      + New - admin panel option to set number of [Column2 Posts].
+      + New - admin panel option to set number of [List Posts].
+      + New - admin panel option to set number of [Gallery Posts].
+      + New - admin panel option to set number of [Videos Posts].
+      + New - admin panel option to set number of [Carousel Posts].
+      + New - admin panel option to set number of [Slider Posts].
+      + New - admin panel option to set number of [Related Posts].
+      + New - admin panel option to set number of [News Ticker Posts].
+      + New - admin panel option to set slider speed.
+      + New - admin panel option to change no image url.
+      + New - admin panel option to set months date format.
+      + New - admin panel option to remove article author box easily.
+      + New - ad unit free section before footer.
+      ^ Update - fontawesome version 4.3.0
+      - Fixed - twitter card description not found.
+      - Fixed - contact form using shortcode to working properly.
+      - Fixed - remove uppercase from "more button" on recent posts in home page.
+      - Fixed - change pages title tag h2 to h1.
+      - Fixed - change mobile version posts tag h2 to h1. 
+      - Fixed - social counter doesn't work properly with fontawesome 4.3.0
+      - Fixed - improvements in responsive styles.
+
+===================================
+
  * Version 1.3.3 - 27 oct 2014
 
       - Fixed - problems appear if post doesn't contain image.
